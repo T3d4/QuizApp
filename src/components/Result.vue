@@ -30,7 +30,7 @@ h1 {
 }
 
 a {
-  text-decoration: whitesmoke;
+  text-decoration: none;
   text-decoration-color: aqua;
   color: azure;
 }
